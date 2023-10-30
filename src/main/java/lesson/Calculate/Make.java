@@ -1,6 +1,6 @@
-package lesson1.Calculate;
+package lesson.Calculate;
 
-public class Calculate {
+public class Make {
     public static int sum(int a, int b) {
         return a+b;
     }
